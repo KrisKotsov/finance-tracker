@@ -1,0 +1,15 @@
+[DONE] 1. Create react application
+[DONE] 2. Decide what packages are needed - mui
+[DONE] 3. Build main view
+   [DONE] 3.1. Current balance
+   [DONE] 3.2. Transaction input field
+        [DONE] 3.2.1. Submit handler
+        [DONE] 3.2.2. Color based on the transaction type
+        [DONE] 3.2.3. Color based on the transaction type on focus
+   [DONE] 3.3. Show all transactions
+   [DONE] 3.4. Add income/expense switch
+4. Add transaction description
+5. Add transactions sorting logic
+6. Delete transaction
+7. Add transaction date
+
